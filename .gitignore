@@ -1,1 +1,7 @@
 .venv
+.env
+usc_service.py
+test.py
+.idea
+usdt_stats.log
+usdt_deposits.log
